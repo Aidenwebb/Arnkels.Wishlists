@@ -1,4 +1,4 @@
-namespace Arnkels.Wishlist.Api;
+namespace Arnkels.Wishlists.Api;
 
 public class WeatherForecast
 {

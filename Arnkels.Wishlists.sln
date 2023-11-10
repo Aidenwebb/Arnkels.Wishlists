@@ -6,7 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{095FDCF3-3C1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arnkels.Wishlists.WebUI", "src\Arnkels.Wishlists.WebUI\Arnkels.Wishlists.WebUI.csproj", "{FAFFCBED-821D-4677-9B62-27A30612A61D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arnkels.Wishlist.Api", "src\Arnkels.Wishlist.Api\Arnkels.Wishlist.Api.csproj", "{1BA5DCE7-A53A-4016-8FC2-B1F829E06E13}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arnkels.Wishlists.Api", "src\Arnkels.Wishlists.Api\Arnkels.Wishlists.Api.csproj", "{1BA5DCE7-A53A-4016-8FC2-B1F829E06E13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
