@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arnkels.Wishlists.Shared", "src\Arnkels.Wishlists.Shared\Arnkels.Wishlists.Shared.csproj", "{B204A391-D030-4DED-8DCF-73A0D28D8275}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{095FDCF3-3C10-4B1A-9DC0-73F6BE860559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arnkels.Wishlists.WebUI", "src\Arnkels.Wishlists.WebUI\Arnkels.Wishlists.WebUI.csproj", "{FAFFCBED-821D-4677-9B62-27A30612A61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arnkels.Wishlist.Api", "src\Arnkels.Wishlist.Api\Arnkels.Wishlist.Api.csproj", "{1BA5DCE7-A53A-4016-8FC2-B1F829E06E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B204A391-D030-4DED-8DCF-73A0D28D8275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B204A391-D030-4DED-8DCF-73A0D28D8275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B204A391-D030-4DED-8DCF-73A0D28D8275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B204A391-D030-4DED-8DCF-73A0D28D8275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFFCBED-821D-4677-9B62-27A30612A61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFFCBED-821D-4677-9B62-27A30612A61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFFCBED-821D-4677-9B62-27A30612A61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFFCBED-821D-4677-9B62-27A30612A61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA5DCE7-A53A-4016-8FC2-B1F829E06E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA5DCE7-A53A-4016-8FC2-B1F829E06E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA5DCE7-A53A-4016-8FC2-B1F829E06E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA5DCE7-A53A-4016-8FC2-B1F829E06E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B204A391-D030-4DED-8DCF-73A0D28D8275} = {095FDCF3-3C10-4B1A-9DC0-73F6BE860559}
+		{FAFFCBED-821D-4677-9B62-27A30612A61D} = {095FDCF3-3C10-4B1A-9DC0-73F6BE860559}
+		{1BA5DCE7-A53A-4016-8FC2-B1F829E06E13} = {095FDCF3-3C10-4B1A-9DC0-73F6BE860559}
+	EndGlobalSection
+EndGlobal
